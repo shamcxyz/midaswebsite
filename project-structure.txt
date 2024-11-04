@@ -1,0 +1,15 @@
+midas-landing-page/
+├── README.md
+├── package.json
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── Feature.jsx
+│   │   ├── GradientBackground.jsx
+│   │   └── Step.jsx
+│   ├── pages/
+│   │   └── LandingPage.jsx
+│   ├── App.jsx
+│   └── index.jsx
+└── tailwind.config.js
